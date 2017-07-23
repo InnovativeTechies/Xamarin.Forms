@@ -21,6 +21,8 @@ namespace PagesGallery.Droid
 			
 			Forms.Init(this, bundle);
 			LoadApplication(new App());
+			
+			
 		}
 	}
 }
